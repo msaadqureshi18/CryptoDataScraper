@@ -8,7 +8,6 @@ Before you use this script, make sure you have the following prerequisites insta
 - Python 3
 - Required Python libraries: BeautifulSoup, requests, pandas
 
-
 ## Usage
 
 1. **Set the URL**:
